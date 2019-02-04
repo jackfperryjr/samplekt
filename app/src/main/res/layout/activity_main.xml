@@ -29,5 +29,5 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintBottom_toTopOf="@+id/startButton" android:hint="Enter your name"
-            android:maxLength="30"/>
+            android:maxLength="30" android:background="@android:color/white"/>
 </android.support.constraint.ConstraintLayout>
